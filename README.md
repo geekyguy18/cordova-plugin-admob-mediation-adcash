@@ -4,7 +4,7 @@ A Mediation plugin for Adcash using
   cordova-plugin-admob-free
 </a> Plugin. Developers are invited to join and contribute.
 
-Banner and Interstitial Ads are working properly now. Just add your <b>Inventory Hash (former Publisher ID)</b> to your AdMob Mediation Ad Sources.
+Banner and Interstitial Ads are working properly now. Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.
 
 
 
