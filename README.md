@@ -4,7 +4,7 @@ A Mediation plugin for Adcash using
   cordova-plugin-admob-free
 </a> Plugin. Developers are invited to join and contribute.
 
-Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.
+Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.<br>
 <img src="http://i0.wp.com/developer.adca.sh/wp-content/uploads/2016/08/ScreenShot5.png">
 
 <h3>Class Name</h3>
@@ -14,7 +14,8 @@ Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.
 <h3>Label:</h3>
 Adcash
 <h3>Parameter:</h3>
-Enter Zone ID from Adcash Publisher Panel
+<p>Enter Zone ID from Adcash Publisher Panel</p>
+(Zone ID for Testing: 1461185)
 
 <br>
 <br>
