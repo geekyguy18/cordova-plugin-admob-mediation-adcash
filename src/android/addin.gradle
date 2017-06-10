@@ -1,0 +1,8 @@
+repositories{
+      flatDir{
+              dirs 'libs'
+       }
+}
+dependencies {
+   compile(name:'adcash-admob-adapter', ext:'aar')
+}
