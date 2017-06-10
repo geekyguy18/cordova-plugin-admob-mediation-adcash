@@ -5,7 +5,7 @@ A Mediation plugin for Adcash using
 </a> Plugin. Developers are invited to join and contribute.
 
 Banner and Interstitial Ads are working properly now. Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.
-
+Guide here: http://developer.adca.sh/article/android/mediation-adapters/admob/admob-mediation-android/
 
 
 <h3>Credits:</h3>
