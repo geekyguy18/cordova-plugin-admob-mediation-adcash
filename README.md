@@ -2,7 +2,7 @@
 A Mediation plugin for Adcash using
 <a href='https://github.com/ratson/cordova-plugin-admob-free'>
   cordova-plugin-admob-free
-</a> Plugin. Developers are invited to join and contribute.
+</a> Plugin. Currently it only supports Android, Developers are invited to join and contribute.
 
 <h2>Add this plugin to your Cordova:</h2>
 <b>cordova plugin add https://github.com/geekyguy18/cordova-plugin-admob-mediation-adcash.git</b>
