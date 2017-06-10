@@ -21,8 +21,8 @@ Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.<br>
 Adcash
 <h3>Parameter:</h3>
 <p>Enter Zone ID from Adcash Publisher Panel</p>
-(Zone ID for Testing: 1461185)
-
+<p>Zone ID for Banner Testing: 409358</p>
+<p>Zone ID for Interstitial Testing: 409357</p>
 <br>
 <br>
 Detailed Guide here: http://developer.adca.sh/article/android/mediation-adapters/admob/admob-mediation-android/
