@@ -5,7 +5,7 @@ A Mediation plugin for Adcash using
 </a> Plugin. Developers are invited to join and contribute.
 
 <h2>Add this plugin to your Cordova:</h2>
-<b>cordova plugin add https://github.com/geekyguy18/cordova-plugin-admob-mediation-adcash.git<b>
+<b>cordova plugin add https://github.com/geekyguy18/cordova-plugin-admob-mediation-adcash.git</b>
 
 <br><br>
 
@@ -13,7 +13,7 @@ A Mediation plugin for Adcash using
 Just add your custom adnetwork (Adcash) to your AdMob Mediation Ad Sources.<br>
 <img src="http://i0.wp.com/developer.adca.sh/wp-content/uploads/2016/08/ScreenShot5.png">
 
-<h3>Class Name</h3>
+<h3>Class Name:</h3>
 <i>For Banner:</i> com.adcash.mobileads.admobadapter.AdcashAdmobBanner<br>
 <i>For Interstitial:</i> com.adcash.mobileads.admobadapter.AdcashAdmobInterstitial<br>
 <i>For Rewarded Video:</i> com.adcash.mobileads.admobadapter.AdcashAdmobRewardedVideo<br>
